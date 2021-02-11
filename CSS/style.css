@@ -1,4 +1,6 @@
-
+h1,h2,h3,h4,p{  
+    color: darkgrey;
+}
 
 
 h1{
@@ -13,11 +15,22 @@ h2{
     
 }
 
-#headerstruct, #bodystruct{
+hr{
+    border: solid 2px darkgray;
+}
+
+ol,p{
+    text-align: justify;
+    color: darkgray;
+    font-size: 125%;
+}
+
+#headerstruct, #bodystruct {
     margin: auto;
     width: 800px;
     border: solid 10px maroon;
     padding: 50px;
+    margin-bottom: 1%;
 }
 
 #ThievesWeb{
