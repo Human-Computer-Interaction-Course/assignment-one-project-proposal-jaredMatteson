@@ -1,3 +1,11 @@
+body{
+    background-image: url("../images/100ThievesShortcutLogo.webp");
+    background-color: rgb(26, 26, 26);
+}
+
+
+
+
 h1,h2,h3,h4,p{  
     color: darkgrey;
 }
@@ -28,9 +36,11 @@ ol,p{
 #headerstruct, #bodystruct {
     margin: auto;
     width: 800px;
-    border: solid 10px maroon;
+    border: solid 10px rgb(216, 53, 53);
     padding: 50px;
     margin-bottom: 1%;
+    background-color: black;
+    opacity: 0.93;
 }
 
 #ThievesWeb{
