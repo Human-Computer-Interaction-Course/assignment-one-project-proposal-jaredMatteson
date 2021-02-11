@@ -1,0 +1,42 @@
+
+
+
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+
+
+h2{
+    text-align: center;
+    
+    
+}
+
+#headerstruct, #bodystruct{
+    margin: auto;
+    width: 800px;
+    border: solid 10px maroon;
+    padding: 50px;
+}
+
+#ThievesWeb{
+    width:775px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
